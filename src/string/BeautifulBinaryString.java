@@ -34,5 +34,6 @@ public class BeautifulBinaryString {
 		if (n > 2) {
 			System.out.println(changesRequired(B));
 		}
+		
 	}
 }
